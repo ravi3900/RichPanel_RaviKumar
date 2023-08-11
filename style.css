@@ -1,0 +1,44 @@
+body {
+    background-color: #155799;
+    color: whitesmoke;
+    font-family: Arial;
+  }
+  
+  .container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .logo {
+    text-align: center;
+  }
+  
+  img.logo {
+    width: 100px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  input[type="submit"] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    opacity: 0.8;
+  }
+  
+  a {
+    color: #04AA6D;
+    text-decoration: none;
+  }
+  
